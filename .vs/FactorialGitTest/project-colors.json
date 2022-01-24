@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7e0f750a-e23b-4ce5-a513-ed4b3d25398d": {
+      "ProjectGuid": "7e0f750a-e23b-4ce5-a513-ed4b3d25398d",
+      "DisplayName": "FactorialGitTest",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
